@@ -8,7 +8,7 @@ Such user instructions can be provided in the printed form, online, or offline o
 
 ## Table Of Content
 
-1. [Overview](./overview/intro.md)
+1. [Overview](/overview/intro.md)
 2. [Getting Started](./features/FAQs.md)
     1. [New User](./features/FAQs.md)
     2. [First time log in](./features/FAQs.md)
